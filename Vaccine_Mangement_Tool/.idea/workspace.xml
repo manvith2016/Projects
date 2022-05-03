@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9de458c-2f95-4870-9814-7eb62040e66b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="25ThAMAMZAl8OpfSpg1HrYtHi0A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/epam" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Demofromcmd" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.epam.dao" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.epam.service" />
+      <recent name="com.epam" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.epam.service" />
+      <recent name="com.epam.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.com.epam.service in Vaccine_Mangement_Tool">
+    <configuration name="ApplicationUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.ui.ApplicationUI" />
+      <module name="Vaccine_Mangement_Tool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.ui.Register" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduleAppointmentServiceUsingMockitoTest.viewCentersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vaccine_Mangement_Tool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.service" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.service.ScheduleAppointmentServiceUsingMockitoTest" />
+      <option name="METHOD_NAME" value="viewCentersTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduledDateValidationUsingMockitoTest.testScheduleDateWithZeroDose" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vaccine_Mangement_Tool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.service" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.service.ScheduledDateValidationUsingMockitoTest" />
+      <option name="METHOD_NAME" value="testScheduleDateWithZeroDose" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.viewProfileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vaccine_Mangement_Tool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.service" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="viewProfileTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.epam.service in Vaccine_Mangement_Tool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vaccine_Mangement_Tool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.epam.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.epam.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.service" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ApplicationUI" />
+      <item itemvalue="JUnit.com.epam.service in Vaccine_Mangement_Tool" />
+      <item itemvalue="JUnit.UserServiceTest.viewProfileTest" />
+      <item itemvalue="JUnit.ScheduleAppointmentServiceUsingMockitoTest.viewCentersTest" />
+      <item itemvalue="JUnit.ScheduledDateValidationUsingMockitoTest.testScheduleDateWithZeroDose" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.epam.service in Vaccine_Mangement_Tool" />
+        <item itemvalue="Application.ApplicationUI" />
+        <item itemvalue="JUnit.ScheduledDateValidationUsingMockitoTest.testScheduleDateWithZeroDose" />
+        <item itemvalue="JUnit.UserServiceTest.viewProfileTest" />
+        <item itemvalue="JUnit.ScheduleAppointmentServiceUsingMockitoTest.viewCentersTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9de458c-2f95-4870-9814-7eb62040e66b" name="Changes" comment="" />
+      <created>1645556840564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645556840564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Vaccine_Mangement_Tool$UserDAOTest_addUser.ic" NAME="UserDAOTest.addUser Coverage Results" MODIFIED="1646999277949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.dao.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Vaccine_Mangement_Tool$ScheduledDateValidationTestUsingMockito.ic" NAME="ScheduledDateValidationTestUsingMockito Coverage Results" MODIFIED="1647428459805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Vaccine_Mangement_Tool$All_in_Vaccine_Mangement_Tool.ic" NAME="All in Vaccine_Mangement_Tool Coverage Results" MODIFIED="1646810597427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Vaccine_Mangement_Tool$LoginValidationTest_testAadhar.ic" NAME="LoginValidationTest.testAadhar Coverage Results" MODIFIED="1646979392862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Vaccine_Mangement_Tool$LoginValidationTest_testUser.ic" NAME="LoginValidationTest.testUser Coverage Results" MODIFIED="1646979935243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Vaccine_Mangement_Tool$ValidationsTest_testDoseNumber.ic" NAME="ValidationsTest.testDoseNumber Coverage Results" MODIFIED="1647364393071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Vaccine_Mangement_Tool$ApplicationUI.ic" NAME="ApplicationUI Coverage Results" MODIFIED="1646810078883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.ui.*</FILTER>
+      <FILTER>com.epam.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Vaccine_Mangement_Tool$com_epam_service_in_Vaccine_Mangement_Tool.ic" NAME="com.epam.service in Vaccine_Mangement_Tool Coverage Results" MODIFIED="1647946697453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.service.*</FILTER>
+      <FILTER>com.epam.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>

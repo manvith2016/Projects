@@ -1,0 +1,6 @@
+com\epam\service\UserServiceTest.class
+com\epam\service\ValidationsUsingMockitoTest.class
+com\epam\service\VaccineCentersServiceUsingMockitoTest.class
+com\epam\service\ScheduledDateValidationUsingMockitoTest.class
+com\epam\service\ValidationsTest.class
+com\epam\service\ScheduleAppointmentServiceUsingMockitoTest.class
